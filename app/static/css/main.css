@@ -1,0 +1,10 @@
+*,*::before,*::after{
+    padding: O;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+body{
+    padding-top: 50px;
+    
+}
